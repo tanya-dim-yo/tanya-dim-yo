@@ -1,1 +1,1 @@
-<img src="https://github.com/tanya-dim-yo/tanya-dim-yo/blob/main/2706258.jpg">
+<img src="Background_design_(25).jpg">
