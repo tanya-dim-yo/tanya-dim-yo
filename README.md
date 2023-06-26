@@ -1,4 +1,4 @@
-<img src="43534 (2).jpg">
+<img src="IMG_5361_1.jpg">
 
 <div id="badges">
   <a href="your-linkedin-URL">
