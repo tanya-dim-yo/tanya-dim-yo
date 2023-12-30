@@ -11,7 +11,7 @@
 </div>
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanya-dim-yo&theme=vision-friendly-dark)](https://git.io/streak-stats)
