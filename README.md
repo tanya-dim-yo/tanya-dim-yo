@@ -13,9 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true&theme=radical)
-
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanya-dim-yo&theme=vision-friendly-dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-dim-yo&layout=compact&theme=vision-friendly-dark)
