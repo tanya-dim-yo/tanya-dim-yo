@@ -11,7 +11,7 @@
 </div>
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true&theme=radical)
