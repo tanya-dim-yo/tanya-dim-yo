@@ -16,4 +16,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-dim-yo&layout=compact&theme=vision-friendly-dark)
 
-https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&margin-w=15
+[https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&margin-w=15](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=discord)https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=discord
