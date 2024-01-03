@@ -1,4 +1,4 @@
-![img_4286a-350x233](https://facebook.com)
+![[img_4286a-350x233](https://github.com/tanya-dim-yo/tanya-dim-yo/blob/5c84856f1d2245e299d932456bd513e5935d7362/LinkedIN_black.png)](https://facebook.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
