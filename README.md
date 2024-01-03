@@ -29,4 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-dim-yo&size_weight=0.5&count_weight=0.5)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=flat&margin-w=15&no-frame=true&title=Commits,Repositories,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=onedark&margin-w=15&no-frame=true&title=Commits,Repositories,Experience)](https://github.com/ryo-ma/github-profile-trophy)
