@@ -1,44 +1,10 @@
-<!-- Facebook -->
-<i class="fab fa-facebook-f"></i>
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
-<!-- Twitter -->
-<i class="fab fa-twitter"></i>
-
-<!-- Google -->
-<i class="fab fa-google"></i>
-
-<!-- Instagram -->
-<i class="fab fa-instagram"></i>
-
-<!-- Linkedin -->
-<i class="fab fa-linkedin-in"></i>
-
-<!-- Pinterest -->
-<i class="fab fa-pinterest"></i>
-
-<!-- Vkontakte -->
-<i class="fab fa-vk"></i>
-
-<!-- Stack overflow -->
-<i class="fab fa-stack-overflow"></i>
-
-<!-- Youtube -->
-<i class="fab fa-youtube"></i>
-
-<!-- Slack -->
-<i class="fab fa-slack-hash"></i>
-
-<!-- Github -->
-<i class="fab fa-github"></i>
-
-<!-- Dribbble -->
-<i class="fab fa-dribbble"></i>
-
-<!-- Reddit -->
-<i class="fab fa-reddit-alien"></i>
-
-<!-- Whatsapp -->
-<i class="fab fa-whatsapp"></i>
+[1]: http://www.facebook.com/
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
