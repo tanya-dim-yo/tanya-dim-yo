@@ -23,3 +23,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-dim-yo&theme=shades-of-purple" alt="tanya-dim-yo" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=flat&no-frame=false&margin-w=10&title=Commits,Repositories,Experience" alt="tanya-dim-yo" /></a> </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tanya-dim-yo" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya-dim-yo&layout=compact&langs_count=8&card_width=320" />
+</a>
