@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya-dim-yo&label=Profile%20views&color=0e75b6&style=flat" alt="tanya-dim-yo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=discord&title=Commits,Repositories,Experience" alt="tanya-dim-yo" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +16,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-dim-yo&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true&locale=en&theme=dracula" alt="tanya-dim-yo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true&locale=en&theme=shades-of-purple" alt="tanya-dim-yo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-dim-yo&theme=dracula" alt="tanya-dim-yo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-dim-yo&theme=shades-of-purple" alt="tanya-dim-yo" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=flat&title=Commits,Repositories,Experience" alt="tanya-dim-yo" /></a> </p>
