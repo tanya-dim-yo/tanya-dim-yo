@@ -18,6 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanya-dim-yo&show_icons=true&locale=en&theme=slateorange" alt="tanya-dim-yo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-dim-yo&theme=slateorange" alt="tanya-dim-yo" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanya-dim-yo&theme=flat&no-frame=false&margin-w=10&title=Commits,Repositories,Experience" alt="tanya-dim-yo" /></a></p>
